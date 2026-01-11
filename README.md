@@ -29,5 +29,4 @@ This project represents a complete front-end website with multiple sections, smo
 
 ---
 
-## 📂 Project Structure
 
